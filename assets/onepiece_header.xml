@@ -27,4 +27,14 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="onepiece_header_08" />
     <random_header image="onepiece_header_09" />
     <random_header image="onepiece_header_10" />
+    <random_header image="onepiece_header_11" />
+    <random_header image="onepiece_header_12" />
+    <random_header image="onepiece_header_13" />
+    <random_header image="onepiece_header_14" />
+    <random_header image="onepiece_header_15" />
+    <random_header image="onepiece_header_16" />
+    <random_header image="onepiece_header_17" />
+    <random_header image="onepiece_header_18" />
+    <random_header image="onepiece_header_19" />
+    <random_header image="onepiece_header_20" />
 </daylight_headers>
